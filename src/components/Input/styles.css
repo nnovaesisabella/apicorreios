@@ -1,0 +1,71 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
+.content h2 {
+    color: #0e1110;
+    margin-top: 5rem;
+    text-align: center;
+     width: 100%;
+    
+    
+}
+
+.divinput {
+    display: flex;
+    width: auto;
+    margin-top: 2rem;
+    justify-content: initial;
+    margin-left: 3rem;
+}
+
+.divinput input {
+    width: 11rem;
+    height: 2.5rem;
+    padding-left: 1rem;
+}
+
+.divinput button {
+    width: 5.5rem;
+    outline: none;
+    background: #0aaa38;
+    border: none;
+    color: #fff;
+    font-weight: 800;
+    text-align: center;
+}
+
+.content ul {
+    margin-top: 2rem;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    justify-content: initial;
+    text-align: center;
+}
+
+.content li {
+    color: rgba(0, 0, 0, 0.63);
+    margin: 0.5rem;
+    text-align: start;
+    margin-left: 3.5rem;
+}
+
+@media (max-width:890px) {
+
+    .content h2 {
+        font-size: 1.06rem;
+       
+    }
+
+    .divinput {
+        display: flex;
+        margin-left: 3rem;
+    }
+}
