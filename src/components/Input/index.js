@@ -56,7 +56,7 @@ export const InputContent = () => {
                 <input type="text" placeholder="Digite o CEP" onChange={(e) => e.target.value !== '' ? handleCep(e) : e.target.value} />
                 <button onClick={getInfo}> Buscar </button>
             </div>
-            <p>{info.error}</p>
+            <p >{info.error}</p>
             <ul>
                 <li>CEP:  <strong>{info["cep"]}  </strong> </li>
                 <li>Logradouro:  <strong>{info["logadouro"]} </strong> </li>
