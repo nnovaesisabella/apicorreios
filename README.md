@@ -20,8 +20,8 @@ Projeto foi desenvolvido com as seguintes tecnologias:
 
 🛠️ Execução do projeto
 
-# clonar repositório Git Bash git clone https://github.com/nnovaesisabella/apicorreios.git
+#clonar repositório Git Bash git clone https://github.com/nnovaesisabella/apicorreios.git
 
-# executar projeto
+#executar projeto
 
 yarn start 
