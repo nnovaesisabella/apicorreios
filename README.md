@@ -16,7 +16,7 @@ Projeto foi desenvolvido com as seguintes tecnologias:
 
 - React .js 
 - Axios 
--API 
+- API 
 
 🛠️ Execução do projeto
 
