@@ -24,4 +24,6 @@ Projeto foi desenvolvido com as seguintes tecnologias:
 
 #executar projeto
 
-yarn start 
+#npm i
+
+#yarn start 
